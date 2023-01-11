@@ -14,3 +14,7 @@ More details can be found in the pa2.pdf file.
 
 pa3:
 Assignment 3 can be found in the bomblab16 folder in my profile in a separate repository. It has been added in a separate repository since this one focuses primarily on C whereas the bomb lab is mainly understanding Assembly.
+
+PA4 focuses on creating a "virtual circuit" given a txt file with keywords such as MULTIXPLEXER, DECODER, AND, OR,etc. to which we need to create a truth table out of said text file.
+Note: this solution file does NOT contain the extra credit method.
+More details can be found in the pa4.pdf file.
